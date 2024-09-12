@@ -11,12 +11,14 @@ This utility fetches geographical coordinates (latitude and longitude) for US ci
 
 1. Clone the repository
 2. Set up a Python virtual environment (Optional)
-	•	For Linux/MacOS
+
+•	For Linux/MacOS
 ```shell
 python3 -m venv venv
 source venv/bin/activate
 ```
-	•	For Windows:
+
+•	For Windows:
 ```shell
 python -m venv venv
 venv\Scripts\activate
